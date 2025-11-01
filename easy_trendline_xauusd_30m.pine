@@ -4,7 +4,7 @@
 // ============================================================================
 // A high-probability trendline breakout strategy for Gold/USD trading
 // 
-// PERFORMANCE: 86% win rate, 29% annual return, 5.47% max drawdown
+// PERFORMANCE: 86% win rate, 29% return (10 months), 35% annualized, 5.47% max drawdown
 // TIMEFRAME: 30-minute chart (XAUUSD)
 // TRADING STYLE: Swing trading with dynamic trendline breakouts
 //
