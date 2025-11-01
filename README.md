@@ -46,7 +46,7 @@ A high-probability, automated trendline breakout strategy for Gold/USD (XAUUSD) 
 
 1. Open [TradingView](https://www.tradingview.com/)
 2. Navigate to **Pine Editor** (bottom panel)
-3. Click **"+ Create"** → **"New Blank Indicator"**
+3. Click **"+ Create New"** → **"Strategy"**
 4. Copy the contents of [`easy_trendline_xauusd_30m.pine`](easy_trendline_xauusd_30m.pine)
 5. Paste into the Pine Editor
 6. Click **"Add to Chart"**
